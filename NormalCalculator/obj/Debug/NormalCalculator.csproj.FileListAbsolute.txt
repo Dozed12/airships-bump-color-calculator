@@ -1,0 +1,8 @@
+C:\Users\Francisco Moreira\Desktop\NormalCalculator\NormalCalculator\bin\Debug\NormalCalculator.exe
+C:\Users\Francisco Moreira\Desktop\NormalCalculator\NormalCalculator\bin\Debug\NormalCalculator.pdb
+C:\Users\Francisco Moreira\Desktop\NormalCalculator\NormalCalculator\obj\Debug\NormalCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Moreira\Desktop\NormalCalculator\NormalCalculator\obj\Debug\NormalCalculator.Form1.resources
+C:\Users\Francisco Moreira\Desktop\NormalCalculator\NormalCalculator\obj\Debug\NormalCalculator.Properties.Resources.resources
+C:\Users\Francisco Moreira\Desktop\NormalCalculator\NormalCalculator\obj\Debug\NormalCalculator.csproj.GenerateResource.Cache
+C:\Users\Francisco Moreira\Desktop\NormalCalculator\NormalCalculator\obj\Debug\NormalCalculator.exe
+C:\Users\Francisco Moreira\Desktop\NormalCalculator\NormalCalculator\obj\Debug\NormalCalculator.pdb
