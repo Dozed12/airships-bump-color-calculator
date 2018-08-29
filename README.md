@@ -1,4 +1,4 @@
-## Airships Bump Calculator
+## Airships Bump Color Calculator
 
 ![alt text](https://github.com/Dozed12/airships-bump-calculator/blob/master/screenshot.png "Preview")
 
